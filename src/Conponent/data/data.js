@@ -25,6 +25,12 @@ export const contacts = [
     name: "GitHub",
     value: "github.com/Vera-Korzun",
   },
+  {
+    icon: git(),
+    link: "https://github.com/Vera-Korzun",
+    name: "GitHub",
+    value: "github.com/Vera-Korzun",
+  },
 ];
 
 export const techSkills = [
