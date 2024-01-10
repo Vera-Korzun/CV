@@ -24,13 +24,7 @@ export const contacts = [
     link: "https://github.com/Vera-Korzun",
     name: "GitHub",
     value: "github.com/Vera-Korzun",
-  },
-  {
-    icon: git(),
-    link: "https://github.com/Vera-Korzun",
-    name: "GitHub",
-    value: "github.com/Vera-Korzun",
-  },
+  }
 ];
 
 export const techSkills = [
@@ -41,6 +35,8 @@ export const techSkills = [
   "JavaScript",
   "React.js",
   "Node.js",
+  "MongoDB",
+  "Postman",
   "Scrum",
 ];
 
@@ -129,7 +125,7 @@ export const experience = [
 export const projects = [
   {
     name: "Books Reading",
-    link: "https://read-book-teamproject.netlify.app",
+    link: "https://fullstack-teamproject-bookread.netlify.app/",
     technology: "React.js/Node.js",
     description:
       "The application allows you to control how long you read a certain number of books in a specified period of time. The teamproject is built with React.js and Node.js.",
@@ -141,13 +137,13 @@ export const projects = [
     description:
       "Web-app for diet-planning and calories calculation. The teamproject is built with ReactJS and Redux.",
   },
-  {
-    name: "OLX SHOP",
-    link: "https://vera-korzun.github.io/Project-2/",
-    technology: "Javascript",
-    description:
-      "Online shop. The teamproject is built with webpack, written in vanilla javascript.",
-  },
+  // {
+  //   name: "OLX SHOP",
+  //   link: "https://vera-korzun.github.io/Project-2/",
+  //   technology: "Javascript",
+  //   description:
+  //     "Online shop. The teamproject is built with webpack, written in vanilla javascript.",
+  // },
   {
     name: "HELLEN",
     link: "https://vera-korzun.github.io/Project-1/",
